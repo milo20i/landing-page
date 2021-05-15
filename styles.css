@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(241, 237, 232);
+}
+#header-img {
+  height: 30px;
+}
+h2 {
+  text-align: center;
+}
+#form {
+  display: block;
+  height: 10px;
+  width: 220px;
+  margin-left: 45%;
+}
+#video {
+  margin-left: 40%;
+  margin-top: 25%;
+  margin-bottom: 10%;
+}
+@media (min-width: 992px) {
+}
